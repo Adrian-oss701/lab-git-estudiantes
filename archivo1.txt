@@ -1,1 +1,2 @@
 Primer archivo de "Laboratorio Git"
+Esta es una nueva línea de prueba
